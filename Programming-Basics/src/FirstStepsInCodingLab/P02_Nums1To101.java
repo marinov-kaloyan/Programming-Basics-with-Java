@@ -1,6 +1,6 @@
 package FirstStepsInCodingLab;
 
-public class P02_Nums1To10 {
+public class P02_Nums1To101 {
 
         public static void main(String[] args){
             System.out.println("1");
