@@ -1,4 +1,4 @@
-package FirstStepsInCodingLab;
+package P01FirstStepsInCodingLab;
 
 public class P02_Nums1To10 {
 

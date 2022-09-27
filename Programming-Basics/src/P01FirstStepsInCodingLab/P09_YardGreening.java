@@ -1,4 +1,4 @@
-package FirstStepsInCodingLab;
+package P01FirstStepsInCodingLab;
 
 import java.util.Scanner;
 

@@ -1,8 +1,8 @@
-package P02FirstStepsInCodingExcercises.P02.P03;
+package P02FirstStepsInCodingExcercises;
 
 import java.util.Scanner;
 
-public class DepositCalculator {
+public class P03DepositCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Double suma = Double.parseDouble(scanner.nextLine());

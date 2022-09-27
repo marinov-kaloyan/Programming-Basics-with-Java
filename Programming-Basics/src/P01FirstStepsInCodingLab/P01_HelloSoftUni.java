@@ -1,4 +1,4 @@
-package FirstStepsInCodingLab;
+package P01FirstStepsInCodingLab;
 
 public class P01_HelloSoftUni {
     public static void main(String[] args) {

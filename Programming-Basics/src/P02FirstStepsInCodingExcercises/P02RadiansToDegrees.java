@@ -1,8 +1,8 @@
-package P02FirstStepsInCodingExcercises.P02;
+package P02FirstStepsInCodingExcercises;
 
 import java.util.Scanner;
 
-public class RadiansToDegrees {
+public class P02RadiansToDegrees {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Double rad = Double.parseDouble(scanner.nextLine());
