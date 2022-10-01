@@ -1,4 +1,4 @@
-package P02FirstStepsInCodingExcercises;
+package P02FirstStepsInCodingExercises;
 
 import java.util.Scanner;
 
