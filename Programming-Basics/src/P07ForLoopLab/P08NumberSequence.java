@@ -1,3 +1,5 @@
+package P07ForLoopLab;
+
 import java.util.Scanner;
 
 public class P08NumberSequence {
